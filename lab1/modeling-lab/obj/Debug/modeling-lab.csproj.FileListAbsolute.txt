@@ -1,0 +1,10 @@
+C:\Users\gamel\Desktop\modeling-labs\lab1\modeling-lab\bin\Debug\modeling-lab.exe.config
+C:\Users\gamel\Desktop\modeling-labs\lab1\modeling-lab\bin\Debug\modeling-lab.exe
+C:\Users\gamel\Desktop\modeling-labs\lab1\modeling-lab\bin\Debug\modeling-lab.pdb
+C:\Users\gamel\Desktop\modeling-labs\lab1\modeling-lab\obj\Debug\modeling-lab.csproj.AssemblyReference.cache
+C:\Users\gamel\Desktop\modeling-labs\lab1\modeling-lab\obj\Debug\modeling-lab.csproj.SuggestedBindingRedirects.cache
+C:\Users\gamel\Desktop\modeling-labs\lab1\modeling-lab\obj\Debug\modeling_lab.Properties.Resources.resources
+C:\Users\gamel\Desktop\modeling-labs\lab1\modeling-lab\obj\Debug\modeling-lab.csproj.GenerateResource.cache
+C:\Users\gamel\Desktop\modeling-labs\lab1\modeling-lab\obj\Debug\modeling-lab.csproj.CoreCompileInputs.cache
+C:\Users\gamel\Desktop\modeling-labs\lab1\modeling-lab\obj\Debug\modeling-lab.exe
+C:\Users\gamel\Desktop\modeling-labs\lab1\modeling-lab\obj\Debug\modeling-lab.pdb
