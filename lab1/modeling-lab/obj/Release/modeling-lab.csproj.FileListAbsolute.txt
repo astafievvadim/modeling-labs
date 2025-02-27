@@ -1,0 +1,14 @@
+C:\Users\gamel\Desktop\modeling-labs\lab1\modeling-lab\bin\Release\MainForm.Designer.cs
+C:\Users\gamel\Desktop\modeling-labs\lab1\modeling-lab\bin\Release\modeling-lab.exe.config
+C:\Users\gamel\Desktop\modeling-labs\lab1\modeling-lab\bin\Release\modeling-lab.exe
+C:\Users\gamel\Desktop\modeling-labs\lab1\modeling-lab\bin\Release\modeling-lab.pdb
+C:\Users\gamel\Desktop\modeling-labs\lab1\modeling-lab\obj\Release\modeling-lab.csproj.AssemblyReference.cache
+C:\Users\gamel\Desktop\modeling-labs\lab1\modeling-lab\obj\Release\modeling-lab.csproj.SuggestedBindingRedirects.cache
+C:\Users\gamel\Desktop\modeling-labs\lab1\modeling-lab\obj\Release\modeling_lab.AlphabetTableForm.resources
+C:\Users\gamel\Desktop\modeling-labs\lab1\modeling-lab\obj\Release\modeling_lab.InfixInputForm.resources
+C:\Users\gamel\Desktop\modeling-labs\lab1\modeling-lab\obj\Release\modeling_lab.MainForm.resources
+C:\Users\gamel\Desktop\modeling-labs\lab1\modeling-lab\obj\Release\modeling_lab.Properties.Resources.resources
+C:\Users\gamel\Desktop\modeling-labs\lab1\modeling-lab\obj\Release\modeling-lab.csproj.GenerateResource.cache
+C:\Users\gamel\Desktop\modeling-labs\lab1\modeling-lab\obj\Release\modeling-lab.csproj.CoreCompileInputs.cache
+C:\Users\gamel\Desktop\modeling-labs\lab1\modeling-lab\obj\Release\modeling-lab.exe
+C:\Users\gamel\Desktop\modeling-labs\lab1\modeling-lab\obj\Release\modeling-lab.pdb

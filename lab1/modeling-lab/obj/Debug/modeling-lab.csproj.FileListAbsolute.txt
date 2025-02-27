@@ -8,3 +8,7 @@ C:\Users\gamel\Desktop\modeling-labs\lab1\modeling-lab\obj\Debug\modeling-lab.cs
 C:\Users\gamel\Desktop\modeling-labs\lab1\modeling-lab\obj\Debug\modeling-lab.csproj.CoreCompileInputs.cache
 C:\Users\gamel\Desktop\modeling-labs\lab1\modeling-lab\obj\Debug\modeling-lab.exe
 C:\Users\gamel\Desktop\modeling-labs\lab1\modeling-lab\obj\Debug\modeling-lab.pdb
+C:\Users\gamel\Desktop\modeling-labs\lab1\modeling-lab\obj\Debug\modeling_lab.InfixInputForm.resources
+C:\Users\gamel\Desktop\modeling-labs\lab1\modeling-lab\obj\Debug\modeling_lab.MainForm.resources
+C:\Users\gamel\Desktop\modeling-labs\lab1\modeling-lab\bin\Debug\MainForm.Designer.cs
+C:\Users\gamel\Desktop\modeling-labs\lab1\modeling-lab\obj\Debug\modeling_lab.AlphabetTableForm.resources
